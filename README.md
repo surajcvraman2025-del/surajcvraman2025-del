@@ -1,6 +1,6 @@
 ![My banner](banner.svg)
-![My background](background.svg)
-<div style="background-image: url('./Untitled-1.svg'); background-size: cover; ...">
+
+
 
 
 # 👋 Hi, I'm ['suraj]!
