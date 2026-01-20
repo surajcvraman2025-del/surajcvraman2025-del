@@ -1,4 +1,3 @@
-
 ![My Banner](banner.svg)
 
 # 👋 Hi, I'm ['suraj]!
