@@ -1,4 +1,5 @@
-<div style="background-image: url('./your-background-do.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat; padding: 20px; border-radius: 10px; color: white; text-shadow: 2px 2px 4px rgba(19, 7, 7, 0.7);">
+
+![My Banner](banner.svg)
 
 # 👋 Hi, I'm ['suraj]!
 
