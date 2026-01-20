@@ -1,30 +1,49 @@
-<svg fill="none" viewBox="0 0 800 200" width="800" height="200" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        .container {
-          /* यहाँ मैंने बैकग्राउंड कलर डाल दिया है ताकि अगर इमेज लोड न भी हो, तो बैनर खाली न दिखे */
-          background-color: #2c697a;
-          background-image: url('data:image/jpeg;base64,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');
-          background-position: center;
-          background-size: cover;
-          height: 190px;
-          display: flex;
-          flex-direction: column;
-          align-items: center;
-          justify-content: center;
-          border-radius: 10px;
-          color: white;
-          font-family: 'Segoe UI', Arial, sans-serif;
-          text-shadow: 2px 2px 10px rgba(0,0,0,0.9);
-        }
-        h1 { margin: 0; font-size: 35px; }
-        p { margin: 5px 0 0; font-size: 20px; }
-      </style>
-      <div class="container">
-        <h1>Welcome to My Profile</h1>
-        <p>PHP | HTML | CSS | JS Developer</p>
-      </div>
-    </div>
-  </foreignObject>
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0f23;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#1a1a2e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#16213e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00d4ff;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#00ff88;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ff6b6b;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="200" fill="url(#bgGradient)" rx="10"/>
+  
+  <!-- Tech Pattern -->
+  <g opacity="0.1">
+    <circle cx="100" cy="50" r="20" fill="#00d4ff"/>
+    <circle cx="150" cy="80" r="15" fill="#00ff88"/>
+    <circle cx="200" cy="40" r="25" fill="#ff6b6b"/>
+    <rect x="300" y="30" width="40" height="40" fill="#00d4ff" transform="rotate(45 320 50)"/>
+    <rect x="400" y="60" width="30" height="30" fill="#00ff88" transform="rotate(30 415 75)"/>
+    <polygon points="500,20 520,50 480,50" fill="#ff6b6b"/>
+    <polygon points="600,30 620,60 580,60" fill="#00d4ff"/>
+  </g>
+  
+  <!-- Code-like brackets -->
+  <text x="50" y="120" font-family="monospace" font-size="60" fill="#00d4ff" opacity="0.3">{</text>
+  <text x="720" y="120" font-family="monospace" font-size="60" fill="#00d4ff" opacity="0.3">}</text>
+  
+  <!-- Main Text -->
+  <text x="400" y="100" font-family="Arial, sans-serif" font-size="36" font-weight="bold" text-anchor="middle" fill="url(#textGradient)">
+    Full Stack Developer
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="400" y="140" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" fill="#ffffff" opacity="0.8">
+    PHP | HTML | CSS | JavaScript | DevOps
+  </text>
+  
+  <!-- Tech Icons (simplified) -->
+  <g transform="translate(650, 160)">
+    <circle cx="10" cy="10" r="8" fill="#00d4ff"/>
+    <circle cx="30" cy="10" r="8" fill="#00ff88"/>
+    <circle cx="50" cy="10" r="8" fill="#ff6b6b"/>
+  </g>
 </svg>
