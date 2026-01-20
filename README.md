@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm ['suraj]!
 
 [![GitHub followers](https://img.shields.io/github/followers/[Your GitHub Username]?style=social)](https://github.com/[Your GitHub Username])
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/[Your LinkedIn Username])
@@ -9,11 +9,11 @@
 [Write a brief introduction about yourself here. What do you do? What are your interests?]
 
 - 🔭 I’m currently working on [current project or job]
-- 🌱 I’m currently learning [technologies or skills you're learning]
+- 🌱 I’m currently learning [html css php aws ci&cd git&github-lab linux devOps engneering]
 - 👯 I’m looking to collaborate on [projects or areas you're interested in]
 - 🤔 I’m looking for help with [anything you're seeking help on]
 - 💬 Ask me about [topics you're knowledgeable about]
-- 📫 How to reach me: [your email or preferred contact method]
+- 📫 How to reach me: ["surajc.vraman2025@gmail.]
 - 😄 Pronouns: [your pronouns]
 - ⚡ Fun fact: [something interesting about you]
 
@@ -63,15 +63,15 @@
 
 ## 📚 Currently Learning
 
-- [Technology/Skill 1]
-- [Technology/Skill 2]
-- [Technology/Skill 3]
+- [aws terrafom ansiable git-action] 
+- [docker node.js]
+- [cyber-scurity host-discovry web-pentesting ]
 
 ## 🎯 Goals for 2024
 
-- [Goal 1]
-- [Goal 2]
-- [Goal 3]
+- [become a back-end devOp]
+- [ web-pentester]
+- [ IT PROFESSIONER]
 
 ## 📞 Let's Connect!
 
