@@ -3,7 +3,11 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         .container {
-          background: url('do.jpg') center/cover no-repeat;
+          /* यहाँ मैंने बैकग्राउंड कलर डाल दिया है ताकि अगर इमेज लोड न भी हो, तो बैनर खाली न दिखे */
+          background-color: #2d3436;
+          background-image: url('data:image/jpeg;base64,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');
+          background-position: center;
+          background-size: cover;
           height: 190px;
           display: flex;
           flex-direction: column;
@@ -11,13 +15,15 @@
           justify-content: center;
           border-radius: 10px;
           color: white;
-          font-family: Arial, sans-serif;
-          text-shadow: 2px 2px 4px rgba(0,0,0,0.8);
+          font-family: 'Segoe UI', Arial, sans-serif;
+          text-shadow: 2px 2px 10px rgba(0,0,0,0.9);
         }
+        h1 { margin: 0; font-size: 35px; }
+        p { margin: 5px 0 0; font-size: 20px; }
       </style>
       <div class="container">
         <h1>Welcome to My Profile</h1>
-        <p>HTML, CSS, PHP, JS Developer</p>
+        <p>PHP | HTML | CSS | JS Developer</p>
       </div>
     </div>
   </foreignObject>
