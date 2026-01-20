@@ -3,11 +3,8 @@
 
 
 
-# 👋 Hi, I'm ['suraj]!
+# 👋 <h> <B><i>Hi, I'ma 'suraj </i> </B> </h>
 
-[![GitHub followers](https://img.shields.io/github/followers/[Your GitHub Username]?style=social)](https://github.com/[Your GitHub Username])
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/[Your LinkedIn Username])
-[![Twitter](https://img.shields.io/twitter/follow/[Your Twitter Handle]?style=social)](https://twitter.com/[Your Twitter Handle])
 
 ## 🚀 About Me
 
