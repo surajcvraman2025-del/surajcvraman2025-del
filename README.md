@@ -87,3 +87,8 @@
 ⭐️ From [Your Location]
 
 </div>
+<div align="center">
+  <h3>⭐ Star this repo if you like it!</h3>
+  <p>Made with ❤️ and lots of ☕ by Suraj</p>
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200" alt="Celebration GIF">
+</div>
