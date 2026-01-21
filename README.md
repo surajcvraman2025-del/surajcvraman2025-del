@@ -65,7 +65,7 @@
 
 ## 📚 Currently Learning
 
-- [aws terrafom ansiable git-action] 
+- [aws terrafom ansiable git-action SQL msSQL] 
 - [docker node.js]
 - [cyber-scurity host-discovry web-pentesting ]
 
